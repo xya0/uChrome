@@ -1,5 +1,5 @@
 # uChrome
-Chrome(ungoogled-chromium) 便携版本
+Chrome(ungoogled-chromium) 便携版本，[下载](https://github.com/xya0/uChrome/releases/download/1.1.1/uChrome_v127.0.6533.120_x64.zip)
 
 
 
