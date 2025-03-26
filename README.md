@@ -26,7 +26,7 @@ ungoogled-chromium 是基于 Chromium 的衍生版本，其剥离了所有来自
 制作基于 Ungoogled Chromium 的便携版浏览器可以通过 Chrome++ 工具实现。以下是详细的实现步骤：
 
 ### 1. 准备工作
-- **下载 Ungoogled Chromium**：从 [Ungoogled Chromium 官方仓库](https://github.com/ungoogled-software/ungoogled-chromium-windows) 获取最新版本。
+- **下载 Ungoogled Chromium**：从 [Ungoogled Chromium 官方仓库](https://github.com/ungoogled-software/ungoogled-chromium-windows) 或者 [Marmaduke's Ungoogled Chromium](https://github.com/macchrome/winchrome/releases)获取对应版本。
 - **下载 Chrome++**：从 [Chrome++ 项目页面](https://github.com/Bush2021/chrome_plus) 获取最新版本。
 
 ### 2. 解压文件
